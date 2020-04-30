@@ -15,5 +15,7 @@ package com.ceshi;
  * 创建时间：2020年4月30日 下午11:04:38        
  */
 public class Login {
-
+   public void index() {
+	System.out.println("33333");
+}
 }
